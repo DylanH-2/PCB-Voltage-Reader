@@ -1,5 +1,5 @@
 # Custom PCB-Voltage-Reader
-The project I designed was my own custom 4-layer PCB built in KiCad to measure volatage across various components. It works as a voltage reader/divider capable of tracking battery levels and voltage drop-offs passing through different circuits. Tested on different circuits and had an Arduino UNO give me the voltage results.
+The project I designed was my own custom 4-layer PCB built in KiCad to measure volatage across various components. It works as a voltage reader/divider capable of tracking battery levels and voltage drop-offs passing through different circuits. Tested on different circuits and had an Arduino UNO give me the voltage results. Have test clips in different files in this same repo.
 
 # Hardware Features
 * 10kΩ resistor
